@@ -1,0 +1,23 @@
+body{
+background-color:#07f7cf;
+font-family: 'Bitter', serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.footer{
+height:40px;
+width:100%;
+background-color:white;
+position:fixed;
+bottom:0;
+left:0;
+text-align:center;
+font-weight:bold;
+}
+
+.table-bordered {
+    border-width: 4px;
+}
